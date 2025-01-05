@@ -1,0 +1,10 @@
+{
+  "name": "Black Cat Pablo Coin",
+  "symbol": "BCPB",
+  "decimals": 18,
+  "description": "A meme token named after Black Cat Pablo.",
+  "website": "https://www.pablo-cat-coin.com",
+  "explorer": "https://bscscan.com/token/0x095c132810098dee8041d8d30c19f3840ddda1e0",
+  "status": "active",
+  "id": "0x095c132810098dee8041d8d30c19f3840ddda1e0"
+}
